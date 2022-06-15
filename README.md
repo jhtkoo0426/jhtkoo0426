@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Justin!!
-I'm currently studying towards a Bachelors in Computer Science at University College London. 
+I'm currently studying towards a Bachelors degree in Computer Science at University College London. 
 
 At the moment, I'm focused on discovering the depths of machine learning (and learning to trade on the side for a few quick bucks 😎). I hope to someday be able to develop a sit-back-and-relax trading bot that can perform well even when the market takes a dive!
 
