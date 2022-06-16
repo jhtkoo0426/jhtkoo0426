@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Justin!!
-I'm gping to be a final year student for Bachelor in Computer Science at University College London. Meanwhile, I'm deep-diving into machine learning and fine-tuning my trading bot for stocking trading as leisure (for a few quick bucks 😎).
+I'm going to be a final year student for Bachelor in Computer Science at University College London. Meanwhile, I'm deep-diving into machine learning and fine-tuning my trading bot for stocking trading as leisure (for a few quick bucks 😎).
 
 ---
 ### Work Experience
