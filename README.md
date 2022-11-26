@@ -3,9 +3,9 @@ I am a final year student studying for a Bachelors in Computer Science at Univer
 
 ---
 ### Work Experience
-- 💻 UCL Industry Exchange Network (Oct 2021 - May 2022): Built a Django webapp solution for a client alongside 2 coursemates under the UCL IXN programme. The webapp was created to assist NHS employees to analyse voice recordings or text messages, via natural language processing libraries like Gensim and spaCy. I self-learnt a lot designing databases efficiently, incorporating UX/UI design and server hosting to turn it into a live project for practical use.
+- 💻 UCL Industry Exchange Network (Oct 2021 - May 2022): I was fortunate to participate in the exchange network with 2 coursemates on a Natural Language Processing project. We were able to apply our knowledge in software development cycles (gathering requirements, prototyping, testing, etc.) to develop an end-to-end solution for our client.
 
-- 🏫 Look4SchoolsUK Ltd. (Apr 2020 - Present): I've been working part-time as a business analyst, assisting the workflow design, collecting and analysing data for Look4Schools which is an edtech company. I volunteered to improve the web portal using Djanjo and my recommendations were adopted by the Chief Executive of the company.
+- 🏫 Look4SchoolsUK Ltd. (Apr 2020 - Present): I worked at Look4Schools, an edtech company, as a part-time business analyst. I completed ad-hoc tasks in collecting, analysing and visualising UK school data. My biggest achievement at Look4Schools was volunteering to design and implement a webapp prototype using Django. The prototype improved the web application's flow and were adopted by the Chief Executive of the company.
 
 ---
 ### Tech Stack & Skills
@@ -24,8 +24,6 @@ I am a final year student studying for a Bachelors in Computer Science at Univer
 
 ---
 ### Things currently learning
-
-Hopefully someday I'll master these skills/tools!!
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
  
