@@ -2,10 +2,12 @@
 
 <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
 
-I am a final year student studying for a Bachelors in Computer Science at University College London. Meanwhile, I'm deep-diving into machine learning and working on a side project related to algorithmic trading.
+I am a final year student studying for a Bachelors in Computer Science at University College London, with a special focus on applications of machine learning in finance.
 
 ---
 ### Work Experience
+- 📦 UCL Final Year Project (Oct 2022 - April 2023): I am currently working on a research project in robust robotic grasping at the Statistical Machine Learning Group at UCL, as part of my degree's final year project.
+
 - 💻 UCL Industry Exchange Network (Oct 2021 - May 2022): I was fortunate to participate in the exchange network with 2 coursemates on a Natural Language Processing project. We were able to apply our knowledge in software development cycles (gathering requirements, prototyping, testing, etc.) to develop an end-to-end solution for our client.
 
 - 🏫 Look4SchoolsUK Ltd. (Apr 2020 - Present): I worked at Look4Schools, an edtech company, as a part-time business analyst. I completed ad-hoc tasks in collecting, analysing and visualising UK school data. My biggest achievement at Look4Schools was volunteering to design and implement a webapp prototype using Django. The prototype improved the web application's flow and were adopted by the Chief Executive of the company.
