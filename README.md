@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
 
-I am a final year student studying for a Bachelors in Computer Science at University College London, with a special focus on applications of machine learning in finance.
+I am Computer Science (BSc) graduate from University College London, with a special focus on data analytics and artificial intelligence.
 
 ---
 ### Work Experience
