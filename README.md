@@ -4,18 +4,20 @@ I am a Computer Science (BSc) graduate from University College London, with a sp
 
 ---
 ### Work Experience
-- 📦 <a href="https://www.sml-group.cc">Statistical Machine Learning Group (UCL)</a> (Oct 2022 - April 2023):
+- 📦 Research Project Student @ <a href="https://www.sml-group.cc">Statistical Machine Learning Group (UCL)</a> (Oct 2022 - April 2023):
   - Collaborated with academics on my dissertation project about creating and integrating ML models into physical robotic arms to facilitate robust robotic grasping.
   - Created a data collection pipeline for gathering tactile and visual data via Pybullet (a Python physics simulation tool on Linux).
   - Achieved 76% accuracy (unseen dataset) on predicting whether given grasp configuration (tactile and visual data of a robotic arm's perception of its environment) would infer a successful grasp or not.
 
-- 💻 UCL Industry Exchange Network (Oct 2021 - May 2022):
+- 💻 Systems Engineer @ UCL Industry Exchange Network (Oct 2021 - May 2022):
   - Participated with 2 coursemates on an existing poorly-maintained NLP project that analyses conversations between NHS practitioners and patients.
   - Refactored back-end code for the web application (Django).
   - Created visualisations using data analysis tools such as LDA and word clouds to inform users of main topics of the conversations.
   - Performed pitches in front of industry members.
 
-- 🏫 **Look4SchoolsUK Ltd. (Apr 2020 - Present)**: I worked at Look4Schools, an edtech company, as a part-time business analyst. I completed ad-hoc tasks in collecting, analysing and visualising UK school data. My biggest achievement at Look4Schools was volunteering to design and implement a webapp prototype using Django. The prototype improved the web application's flow and were adopted by the Chief Executive of the company.
+- 🏫 Part-time Business Analyst @ Look4SchoolsUK Ltd. (Apr 2020 - Apr 2022):
+  - Completed ad-hoc tasks in collecting, analysing and visualising UK school data.
+  - Biggest achievement: Volunteered to design and implement a webapp prototype using Django. The prototype improved the web application's flow and were adopted by the Chief Executive of the company.
 
 ---
 ### Tech Stack & Skills
