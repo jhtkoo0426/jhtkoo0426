@@ -4,6 +4,10 @@ I am a Computer Science (BSc) graduate from University College London, with a sp
 
 ---
 ### Work Experience
+- 🐦 Freelance Machine Learning Engineer (Sep 2023 - Present):
+  - Fine-tuned LLaMa-2-13b for Chinese text generation on AWS SageMaker using a Chinese chatbot dataset from HuggingFace.
+  - Successfully deployed model endpoints using AWS S3 buckets for efficient querying.
+
 - 📦 Research Project Student @ <a href="https://www.sml-group.cc">Statistical Machine Learning Group (UCL)</a> (Oct 2022 - April 2023):
   - Collaborated with academics on my dissertation project about creating and integrating ML models into physical robotic arms to facilitate robust robotic grasping.
   - Created a data collection pipeline for gathering tactile and visual data via Pybullet (a Python physics simulation tool on Linux).
