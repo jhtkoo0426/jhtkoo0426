@@ -2,6 +2,11 @@
 
 I am a Computer Science (BSc) graduate from University College London, with a special focus on data analytics and machine learning.
 
+I am active on the following platforms!
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/justin-koo-29bb831b2/) [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/jhtk0426/) [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>](https://www.kaggle.com/jhtkoo0426)
+
+
 ---
 ### Work Experience
 #### 🐦 Freelance Machine Learning Engineer (Sep 2023 - Present):
@@ -57,4 +62,4 @@ Interested? You can reach me at your convience via:
 
 or the following social links:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/justin-koo-29bb831b2/) [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/jhtk0426/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/justin-koo-29bb831b2/) [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/jhtk0426/) [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>](https://www.kaggle.com/jhtkoo0426)
