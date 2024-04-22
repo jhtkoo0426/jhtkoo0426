@@ -29,4 +29,4 @@ Check out [my portfolio website](https://jhtkoo0426.github.io/) to learn more!
 ### Let's connect!
 I'm open to connecting and discussing ideas in both technology and finance, and I'm eager to explore potential collaborations. Let's connect and see where our interests align!
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/justin-koo-29bb831b2/) [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/jhtk0426/) [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>](https://www.kaggle.com/jhtkoo0426)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/justin-koo-29bb831b2/) [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/justin_koo/) [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>](https://www.kaggle.com/jhtkoo0426)
