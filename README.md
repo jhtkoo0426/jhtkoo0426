@@ -5,9 +5,9 @@ Welcome to my GitHub page! I am a software engineer specializing in Machine Lear
 
 ### A bit about me 😄
 - I am from Hong Kong and am currently based on London, UK (6 years and counting).
-- I am deeply passionate about creating intelligent systems that learn and adapt, just like myself.
+- I am deeply passionate about learning new things and adapting it into my passion projects and daily life.
 - I have worked in multi-disciplinary teams on primarily ML-based projects.
-- I've delved into intriguing applications of technology in finance, especially algorithmic trading and market making.
+- Currently, I'm delving into intriguing applications of technology in finance, especially algorithmic trading and market making.
 
 
 ### Tech I'm familiar with 🧠
